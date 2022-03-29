@@ -140,7 +140,8 @@ section{
 }
 
 #botao:hover{
-	border: solid lightblue;
+	background-color:white;
+	color:black;
 	padding: 15px;
 
 }
