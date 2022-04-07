@@ -90,6 +90,12 @@ form{
 	margin: auto;
 }
 
+
+img:hover{
+	border: solid 2px #0093E9;
+	border-radius: 40px;
+}
+
 .former-control{
 	margin-top: 40px;
 	border-style: none;
